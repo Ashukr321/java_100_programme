@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Scanner;
 
-public class c {
+public class _14_factorial_of_number {
     public static void main(String[] args) {
         // find the factorial of the number
         //create the object of the class
